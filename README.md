@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi 👋 I’m Corrine!⚡Hey,Come on...
+
+---
+
+A fronted newbie 🐣 passionate about web development. 💡Currently learning:
+
+-   🌱 HTML/CSS/JavaScript
+-   ⚛️ React basics
+-   💚 Vue basics
+-   🟦 TypeScript | Tailwind
+-   ☕ Java
+-   🎨 UI design principles
 
 <!--
 **Corrine-Chan/Corrine-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
