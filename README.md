@@ -1,7 +1,5 @@
 ## Hi 👋 I’m Corrine!⚡Hey,Come on...
 
----
-
 A fronted newbie 🐣 passionate about web development. 💡Currently learning:
 
 -   🌱 HTML/CSS/JavaScript
